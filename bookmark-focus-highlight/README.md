@@ -2,6 +2,9 @@
 
 _Enable and force highlight styles for focus state._
 
+
+## Usage
+
 Create a bookmark and paste this in the URL/Location field:
 
 ```js
